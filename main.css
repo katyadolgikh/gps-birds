@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Redaction';
+  font-style: normal;
+  font-weight: regular;
+	src: local('Redaction'),
+		url(/fonts/Redaction.otf);
+}
+
+h1 {
+	font-family: 'Redaction';
+	font-weight: regular;
+}
