@@ -8,6 +8,18 @@
 
 h1 {
 	font-family: 'Redaction';
-	font-weight: regular;
-    font-size: 40px;
+	font-weight: normal;
+    position: absolute;
+    width: 311px;
+    height: 48px;
+    left: 804px;
+    top: 485px;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.05em;
+    
+    color: #000000;
 }
