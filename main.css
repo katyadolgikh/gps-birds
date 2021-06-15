@@ -7,11 +7,19 @@
 }
 
 h1 {
-	font-family: 'Redaction';
-	font-weight: normal;
+    position: absolute;
+    width: 311px;
+    height: 48px;
+    left: 804px;
+    top: 404px;
+    
+    font-family:'Redaction';
+    font-style: normal;
+    font-weight: normal;
     font-size: 48px;
     line-height: 58px;
-    margin-top: 485px;
-    
+    display: flex;
+    align-items: center;
+    text-align: center;
     color: #000000;
 }
