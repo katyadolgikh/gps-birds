@@ -8,16 +8,14 @@
 
 h1 {
     position: absolute;
-    width: 311px;
-    height: 48px;
-    left: 804px;
-    top: 404px;
+    margin-left: 750px;
+    margin-top: 350px;
     
     font-family:'Redaction';
     font-style: normal;
     font-weight: normal;
     font-size: 48px;
-    line-height: 58px;
+    line-height: 48px;
     display: flex;
     align-items: center;
     text-align: center;
