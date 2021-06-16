@@ -26,10 +26,6 @@ h1 {
 
 #rectangle {
   position: absolute;
-  width: 960px;
-  height: 468px;
-  left: 0px;
-  top: 0px;
   
   border: 1px solid #000000;
   box-sizing: border-box;
